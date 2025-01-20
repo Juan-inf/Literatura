@@ -28,5 +28,5 @@
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone 
+   git clone https://github.com/Juan-inf/Literatura.git
    cd Litaralura
